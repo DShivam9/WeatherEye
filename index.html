@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>WeatherEye</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Background video with enhanced 1920x1080 handling -->
+<video id="bgVideo" class="bg-video" autoplay muted loop playsinline>
+    <source src="assets/videos/defaults.mp4" type="video/mp4">
+</video>
+<div class="bg-overlay" aria-hidden="true"></div>
+
+<h1 class="title">WeatherEye</h1>
+
+<form class="weatherform">
+    <input type="text" class="cityinput" placeholder="Enter city name" aria-label="city">
+    <button type="submit">Get Weather</button>
+</form>
+
+<div class="loader-container" style="display:none;">
+    <div class="loader"></div>
+</div>
+
+<button id="darkModeToggle">Dark Mode</button>
+
+<div class="card" style="display:none;"></div>
+
+<script src="index.js"></script>
+</body>
+</html>
