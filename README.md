@@ -24,12 +24,15 @@ Experience it yourself right here:
 
 ## 🛠️ Built With
 
-- **HTML5** – Semantic structure  
-- **CSS3** – Responsive styling and animations  
-- **JavaScript (ES6)** – API integration and interactivity  
-- **OpenWeatherMap API** – Real-time weather data  
+| Technology     | Icon                                                                                      |
+|----------------|-------------------------------------------------------------------------------------------|
+| HTML5          | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)      |
+| CSS3           | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
+| JavaScript (ES6)| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+| OpenWeatherMap API | *(No official icon, you can add your own or leave blank)*                              |
 
 ---
+
 
 ## 🧑‍💻 Getting Started
 
