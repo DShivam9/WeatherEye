@@ -18,7 +18,7 @@
 ## 🚀 Live Demo
 
 Experience it yourself right here:  
-👉 [WeatherEye Live Demo](https://your-github-username.github.io/your-repo-name/) 👈
+👉 [WeatherEye Live Demo](https://dshivam9.github.io/WeatherEye/) 👈
 
 ---
 
