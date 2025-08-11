@@ -32,11 +32,3 @@ Experience it yourself right here:
 | OpenWeatherMap API| <img src="assets/images/logo_weather.png" width="40"/>                                           |
 
 ---
-
-
-## 🧑‍💻 Getting Started
-
-### Clone the repo  
-```bash
-git clone https://github.com/your-github-username/your-repo-name.git
-cd your-repo-name
