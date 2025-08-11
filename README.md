@@ -8,11 +8,9 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 ## 🚀 Features
 
 - 🌍 **Search Weather by City** – Get weather updates for any city worldwide.
-- ⏳ **Loading Indicator** – Displays a loader while fetching data.
 - 📡 **Live Data** – Uses OpenWeatherMap API to fetch up-to-date weather information.
 - 🎨 **Responsive UI** – Works on desktops, tablets, and mobile devices.
 - 🌗 **Dark Mode Toggle** – Switch between light and dark themes.
-- 📜 **Recent Searches** – Quickly access previously searched cities.
 - 💨 Displays:
   - Temperature
   - Weather Condition
