@@ -24,12 +24,13 @@ Experience it yourself right here:
 
 ## 🛠️ Built With
 
-| Technology     | Icon                                                                                      |
-|----------------|-------------------------------------------------------------------------------------------|
-| HTML5          | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)      |
-| CSS3           | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)         |
-| JavaScript (ES6)| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| OpenWeatherMap API | *(No official icon, you can add your own or leave blank)*                              |
+| Technology       | Icon                                                                                                    |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| HTML5            | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>      |
+| CSS3             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>         |
+| JavaScript (ES6) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>     |
+| OpenWeatherMap API| <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenweathermap.org%2Fapi&psig=AOvVaw1rN5f4TRpJ0akyTVWmGEsJ&ust=1755014395828000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPi8r5yQg48DFQAAAAAdAAAAABAE" width="40"/>     |
+
 
 ---
 
