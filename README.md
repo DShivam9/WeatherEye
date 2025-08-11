@@ -5,6 +5,11 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 ---
 
+## 🚀 Live Demo
+[Click here to access the Weather App](https://dshivam9.github.io/WeatherEye/)
+
+---
+
 ## 🚀 Features
 
 - 🌍 **Search Weather by City** – Get weather updates for any city worldwide.
