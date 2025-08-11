@@ -33,4 +33,4 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/DShivam9/weather-app.git
