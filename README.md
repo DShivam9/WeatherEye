@@ -1,41 +1,39 @@
-# 🌦 Weather Web Application
+# 🌦️ WeatherEye — Real-Time Weather App
 
-A responsive and interactive weather application built using **HTML**, **CSS**, and **JavaScript**.  
-It fetches real-time weather data using the **OpenWeatherMap API** and displays current weather details for any city.
+> *"Stay ahead of the weather with style and simplicity."*
+
+---
+
+## ✨ Features
+
+- 🔎 **City Search:** Get current weather for any city worldwide  
+- 🎨 **Animated Weather Icons:** Visualize the weather conditions with smooth animations  
+- ⏳ **Loading Indicator:** User-friendly loader while fetching data  
+- 🌓 **Dark Mode Toggle:** Switch between light and dark themes with a single click  
+- 💻 **Desktop-First Design:** Optimized for larger screens, focusing on immersive experience  
+- 🎥 **Dynamic Backgrounds:** Weather-themed looping videos for ambiance  
 
 ---
 
 ## 🚀 Live Demo
-[Click here to access the Weather App](https://dshivam9.github.io/WeatherEye/)
+
+Experience it yourself right here:  
+👉 [WeatherEye Live Demo](https://your-github-username.github.io/your-repo-name/) 👈
 
 ---
 
-## 🚀 Features
+## 🛠️ Built With
 
-- 🌍 **Search Weather by City** – Get weather updates for any city worldwide.
-- 📡 **Live Data** – Uses OpenWeatherMap API to fetch up-to-date weather information.
-- 🎨 **Responsive UI** – Works on desktops, tablets, and mobile devices.
-- 🌗 **Dark Mode Toggle** – Switch between light and dark themes.
-- 💨 Displays:
-  - Temperature
-  - Weather Condition
-  - Humidity
-  - Wind Speed
-  - Weather Icon
+- **HTML5** – Semantic structure  
+- **CSS3** – Responsive styling and animations  
+- **JavaScript (ES6)** – API integration and interactivity  
+- **OpenWeatherMap API** – Real-time weather data  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Getting Started
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
-- **OpenWeatherMap API**
-
----
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/DShivam9/weather-app.git
+### Clone the repo  
+```bash
+git clone https://github.com/your-github-username/your-repo-name.git
+cd your-repo-name
